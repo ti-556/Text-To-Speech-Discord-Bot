@@ -1,6 +1,5 @@
 from nextcord.ext import commands
 from nextcord import Intents
-from gtts import gTTS
 from voicevox import Client
 import nextcord
 import requests, json
